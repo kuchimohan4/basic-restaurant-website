@@ -1,0 +1,78 @@
+
+body{
+
+    background-color: rgb(25, 59, 36);
+    background-image: url(images/istockphoto-638000936-612x612.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+
+margin-left: auto;
+margin-right: auto;
+width: 1024px;
+
+}
+
+header{
+    /* background-color: blue; */
+    height: 118px;
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.489);
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+}
+main{
+    height: 400px;
+    text-align: center;
+    padding-left: 240px;
+    padding-top: 80px;
+    padding-right: 240px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.578);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h1{
+    font-size: 60px;
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-size: 18px;    
+    color: rgb(255, 255, 255);
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link{
+    color: rgb(10, 146, 0);
+    font-size: 24px;
+}
+a{
+    font-weight: bold;
+    color: rgb(255, 236, 214);
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+footer p{
+    font-size: 12px; 
+}
+.map{
+    padding-bottom: 100px;
+}
+    
